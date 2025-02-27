@@ -26,7 +26,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/xora.git
+   git clone https://github.com/cseis06/xora
 
 2. Ve al directorio del proyecto
    ```bash
